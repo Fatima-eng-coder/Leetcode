@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Fatima-eng-coder/Leetcode/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/Fatima-eng-coder/Leetcode/tree/master/0263-ugly-number) |
 | [1013-fibonacci-number](https://github.com/Fatima-eng-coder/Leetcode/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/Fatima-eng-coder/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 ## String
 |  |
 | ------- |
@@ -50,11 +51,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Fatima-eng-coder/Leetcode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Fatima-eng-coder/Leetcode/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/Fatima-eng-coder/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Fatima-eng-coder/Leetcode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Fatima-eng-coder/Leetcode/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/Fatima-eng-coder/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 ## Recursion
 |  |
 | ------- |
