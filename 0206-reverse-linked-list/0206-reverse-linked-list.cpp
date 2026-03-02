@@ -17,15 +17,16 @@ public:
         }
         ListNode* prev = NULL;
         ListNode* curr = head;
-        ListNode* nextNode = curr -> next;
+        ListNode* nextNode = NULL;
 
-        while (nextNode != NULL){
+        while (curr != NULL){
+            nextNode = curr -> next;
             curr -> next = prev;
             prev = curr;
             curr = nextNode;
-            nextNode = nextNode -> next;
+           
         }
-        curr -> next = prev;
-        return curr;
+        
+        return prev;
     }
 };
