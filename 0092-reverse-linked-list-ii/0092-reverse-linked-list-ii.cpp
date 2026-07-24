@@ -35,7 +35,7 @@ public:
             next = curr -> next; 
             curr -> next = prev;
             prev = curr;  // last iteration reverse head
-            curr = next; // after tail
+            curr = next; // node which is present after tail of reverse
 
             position++;
         }
