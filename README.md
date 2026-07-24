@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Fatima-eng-coder/Leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Fatima-eng-coder/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Fatima-eng-coder/Leetcode/tree/master/0058-length-of-last-word) |
+| [3174-clear-digits](https://github.com/Fatima-eng-coder/Leetcode/tree/master/3174-clear-digits) |
 ## Trie
 |  |
 | ------- |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Fatima-eng-coder/Leetcode/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Fatima-eng-coder/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/Fatima-eng-coder/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [3174-clear-digits](https://github.com/Fatima-eng-coder/Leetcode/tree/master/3174-clear-digits) |
 ## Linked List
 |  |
 | ------- |
@@ -127,4 +129,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Fatima-eng-coder/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+## Simulation
+|  |
+| ------- |
+| [3174-clear-digits](https://github.com/Fatima-eng-coder/Leetcode/tree/master/3174-clear-digits) |
 <!---LeetCode Topics End-->
